@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="question_vietnam1">Hanoi is capitol of Vietnam.</string>
+    <string name="question_math1">The problem of 7 bridges is that of Euler..</string>
+    <string name="question_china1">China is the most populous country in the world.</string>
+    <string name="question_china2">The best general in Chinese history is Han Xin. </string>
+    <string name="question_america1">The first president of America is Lincoln.</string>
+    <string name="question_germany1">Paris is capitol of Germany.</string>
+    <string name="question_champa1">Che Bunga is the greatest king of Champa.</string>
+    <string name="question_china3">500,000 troops of Xiang Yu defeated 30,000 Qin troops of Zhang Han.</string>
+    <string name="question_canada1">Justin Trudeau is a man.</string>
+    <string name="question_vietnam2">Quang Trung and Nguyen Hue are brothers.</string>
+    <string name="question_china4">Aisin Gioro Dorgon overthrew the Ming dynasty.</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="show_answer_button">Show answer</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="judgment_toast">Cheat is wrong.</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+
+</resources>
